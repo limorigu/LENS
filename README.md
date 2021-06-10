@@ -1,7 +1,7 @@
-LENS code supplementary
------------------------
+Local Explanations via Necessity and Sufficiency: Unifying Theory and Practice
+==============================================================================
 
-Please find all code to reproduce experiments in this folder. It has three subdirectories:
+Code to reproduce results from the [UAI 2021 paper](https://arxiv.org/abs/2103.14651). It has three subdirectories:
 
 1. notebooks
 2. src
